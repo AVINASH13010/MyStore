@@ -1,0 +1,6 @@
+2024-08-11 13:15:16 INFO  Log:11 - =====================================Login Test TEST START=========================================
+2024-08-11 13:15:16 INFO  Log:22 - user is going to click on SignIn
+2024-08-11 13:15:18 INFO  Log:22 - Enter Username and Password
+2024-08-11 13:15:22 INFO  Log:22 - Verifying if user is able to login
+2024-08-11 13:15:22 INFO  Log:22 - Login is Success
+2024-08-11 13:15:22 INFO  Log:15 - =====================================LoginTest TEST END=========================================
